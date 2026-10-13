@@ -8,6 +8,7 @@ I'm a bioinformatician and interested in data analysis and programming.
 
 I'm continuing to learn, experiment, and build projects along the way. This repo is for hobby projects only.
 
-# Connect with me
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/changsunl/)
+## Connect with me
+<a href="https://www.linkedin.com/in/changsunl">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" height="28" alt="LinkedIn">
+</a>
