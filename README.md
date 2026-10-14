@@ -3,6 +3,7 @@
 I'm a bioinformatician and interested in data analysis and programming.
 
 - I use R primarily for data wrangling and visualization.
+- I use SciPy for technical computing.
 - I am learning **C++** and **Algebra**.
 - I was a wet-lab researcher and published papers in plant science field.
 
